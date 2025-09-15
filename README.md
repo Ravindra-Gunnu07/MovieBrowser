@@ -12,6 +12,7 @@ MovieBrowser is an Android app built with **Jetpack Compose** and **MVVM archite
 ---
 
 (📱 Screenshots)  
+![image alt](https://github.com/Ravindra-Gunnu07/MovieBrowser/blob/master/Screenshot%202025-09-14%20175724.png?raw=true)
 
 ---
 
